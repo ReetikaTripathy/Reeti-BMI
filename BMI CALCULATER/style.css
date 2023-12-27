@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content:bottom center;
+  align-items:top center;
+  height: 100vh;
+  margin: 100;
+  background-color: darkorchid;
+  background-image: image();
+}
+
+.container {
+  text-align: top center;
+  background-color: darkorchid;
+}
+
+input, button {
+  margin: 100px 0;
+}
